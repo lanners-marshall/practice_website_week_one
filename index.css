@@ -211,3 +211,12 @@ iframe {
 	padding-left: 20px;
   width: 500px;
 }
+
+.village {
+	border: solid #142910 4px;
+	border-radius: 20px;
+}
+
+.about-p {
+	padding: 5px;
+}
