@@ -156,3 +156,58 @@ address {
 	text-align: center;
   margin-bottom: 15px;
 }
+
+form {
+	display: flex;
+  flex-direction: column;
+  width: 360px;
+  height: 400px;
+  padding: 20px;
+  border: solid black 1px;
+  border-radius: 4px;
+  font-size: 20px;
+  background-color: #e490ff;
+}
+
+input {
+	padding: 6px;
+	font-size: 20px;
+	border: solid black 1px;
+}
+
+label {
+	padding: 6px;
+}
+
+button {
+  width: 81px;
+  height: 53px;
+  margin-top: 29px;
+  border-radius: 11px;
+  font-size: 17px;
+}
+
+button:hover {
+	color: white;
+	background-color: #8517a9;
+}
+
+select {
+	width: 100px;
+  height: 27px;
+  background-color: #ffdede;
+  background: solid black 1px;
+}
+
+form p {
+	padding: 8px;
+}
+
+.outside {
+	height: 400px;
+} 
+
+iframe {
+	padding-left: 20px;
+  width: 500px;
+}
